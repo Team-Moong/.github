@@ -28,4 +28,6 @@
 `type: 내용` 형식 — `feat` / `fix` / `docs` / `refactor` / `test` / `chore`
 
 ### 에이전트 협업
-`/handoff` 및 `claude.md`&`agent.md` 기반 맥락 공유 협업
+- `/handoff` 및 `claude.md`&`agent.md` 기반 맥락 공유 협업
+- 🤖 [**Team-Moong AI 코드 리뷰 & CI/CD 인프라 상세 가이드 보기**](./AI_CODE_REVIEW_INFRA.md)
+- 🧠 [**Team-Moong AI 에이전트 협업 및 오케스트레이션 지침서 보기**](./AGENT_CONTEXT_GUIDE.md)
