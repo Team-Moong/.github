@@ -28,5 +28,4 @@
 `type: 내용` 형식 — `feat` / `fix` / `docs` / `refactor` / `test` / `chore`
 
 ### 에이전트 협업
-작은 단위 작업은 이슈로 위임(사람 또는 에이전트).  
-자세한 가이드는 메인 레포 `docs/COLLABORATION.md` 참고.
+`/handoff` 및 `claude.md`&`agent.md` 기반 맥락 공유 협업
