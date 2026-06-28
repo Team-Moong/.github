@@ -35,4 +35,7 @@
     *   API Key 기반 다중 LLM(Solar/EXAONE) 동적 라우팅 및 OIDCBedrock 수준의 정량 평가(Confidence Gate) 구현 세부 정보
 *   🧠 [**AI 에이전트 자율 주행 협업 지침서 (ADD)**](./AGENT_CONTEXT_GUIDE.md)
     *   GitHub CLI와 MCP를 활용한 에이전트의 PR 자가 치유(Self-Healing) 기법 및 Flutter 비동기 테스트 타이머 누수 제어 가이드
+*   📋 [**개발 프로세스 및 에이전트 이슈 트래킹 가이드**](./ISSUE_TEMPLATE_GUIDE.md)
+    *   `dev` 통합 지향 브랜치 전략(Mermaid 흐름도) 및 에이전트와 개발자가 준수해야 할 표준 이슈/PR 본문 템플릿 규격 제공
+
 
